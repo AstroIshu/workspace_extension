@@ -2,6 +2,7 @@
 
 #### *~Manage multiple workspaces for streamlined work flow~*
 
+![Screenshot](https://github.com/AstroIshu/workspace_extension/blob/8c3158cecc0cbc31c6184a9835d77e9accaab2d7/image/Screenshot%202024-12-04%20171552.png)
 ##### Made for Firefox based browsers like Zen.
 #### Can work with Chromium based browser too.
 
