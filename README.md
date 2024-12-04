@@ -3,6 +3,7 @@
 #### *~Manage multiple workspaces for streamlined work flow~*
 
 ##### Made for Firefox based browsers like Zen.
+#### Can work with Chromium based browser too.
 
 ## Features
 - **Save Workspaces**: Save the current state of all open tabs.
