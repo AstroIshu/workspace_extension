@@ -1,0 +1,201 @@
+body {
+  background-color: #2e2e2e;
+  color: #ffffff;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  padding: 20px;
+  width: 300px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 0 #000;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  border: 2px solid #ffffff;
+  background-color: #4a4a4a;
+  color: #ffffff;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 16px;
+  outline: none;
+}
+
+input[type="text"]:focus {
+  border-color: #ffcc00;
+}
+
+.button-container {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+body {
+  background-color: #2e2e2e;
+  color: #ffffff;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  padding: 20px;
+  width: 300px;
+  margin: 0;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-shadow: 1px 1px 0 #000;
+}
+
+input[type="text"] {
+  width: 80%;
+  padding: 10px;
+  border: 2px solid #ffffff;
+  background-color: #4a4a4a;
+  color: #ffffff;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 16px;
+  outline: none;
+}
+
+input[type="text"]:focus {
+  border-color: #ffcc00;
+}
+
+.button-container {
+  margin: 20px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+button {
+  background-color: #ffcc00;
+  color: #2e2e2e;
+  border: none;
+  padding: 10px 20px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+button:hover {
+  background-color: #e6b800;
+}
+
+#workspaces {
+  margin-top: 20px;
+}
+
+.workspace-item {
+  background-color: #4a4a4a;
+  border: 2px solid #ffffff;
+  margin: 5px 0;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.workspace-item span {
+  cursor: pointer;
+}
+
+.options-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.options-menu {
+  position: absolute;
+  background-color: #4a4a4a;
+  border: 2px solid #ffffff;
+  padding: 10px;
+  z-index: 10;
+}
+
+.options-menu button {
+  background-color: #ffcc00;
+  color: #2e2e2e;
+  border: none;
+  padding: 5px 10px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 14px;
+  cursor: pointer;
+  margin: 5px 0;
+}
+
+.options-menu button:hover {
+  background-color: #e6b800;
+}
+
+body {
+  image-rendering: pixelated;
+}
+
+
+button:hover {
+  background-color: #e6b800;
+  font-size: 14px;
+}
+
+
+#workspaces {
+  margin-top: 20px;
+}
+
+.workspace-item {
+  background-color: #4a4a4a;
+  border: 2px solid #ffffff;
+  margin: 5px 0;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.workspace-item span {
+  cursor: pointer;
+}
+
+.options-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.options-menu {
+  position: absolute;
+  background-color: #4a4a4a;
+  border: 2px solid #ffffff;
+  padding: 10px;
+  z-index: 10;
+}
+
+.options-menu button {
+  background-color: #ffcc00;
+  color: #2e2e2e;
+  border: none;
+  padding: 5px 10px;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 14px;
+  cursor: pointer;
+  margin: 5px 0;
+}
+
+.options-menu button:hover {
+  background-color: #e6b800;
+}
+
+body {
+  image-rendering: pixelated;
+}
